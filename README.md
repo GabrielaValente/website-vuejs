@@ -20,3 +20,9 @@ npm run serve
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Tela
+
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/54418295/181865023-274da87b-9549-4008-a173-47c6d1234b2c.png)
+
